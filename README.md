@@ -17,6 +17,6 @@ Make the appropriate adjustments to your VBA script to enable it to run on every
 
 ## Solution: 
 
-Please refer to File "Stock_market_data_script" for VBA script
-Screenshot taken for each excel sheet (2018, 2019, 2020) and uploaded to Githhub under Repository VBA-challenge
-Excel file including the macro uploaded to Githhub under Repository VBA-challenge
+* Please refer to File "Stock_market_data_script" for VBA script
+* Screenshot taken for each excel sheet (2018, 2019, 2020) and uploaded to Githhub under Repository VBA-challenge
+* Excel file including the macro uploaded to Githhub under Repository VBA-challenge
